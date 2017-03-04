@@ -1,0 +1,12 @@
+C:\Users\JPM\Documents\Programs\2155\PE20\PE20\bin\Debug\PE20.exe.config
+C:\Users\JPM\Documents\Programs\2155\PE20\PE20\bin\Debug\PE20.exe
+C:\Users\JPM\Documents\Programs\2155\PE20\PE20\bin\Debug\PE20.pdb
+C:\Users\JPM\Documents\Programs\2155\PE20\PE20\obj\Debug\PE20.csprojResolveAssemblyReference.cache
+C:\Users\JPM\Documents\Programs\2155\PE20\PE20\obj\Debug\PE20.exe
+C:\Users\JPM\Documents\Programs\2155\PE20\PE20\obj\Debug\PE20.pdb
+C:\Users\JPM\Documents\Programs\2155\PE20 - Meeks\PE20\PE20\bin\Debug\PE20.exe.config
+C:\Users\JPM\Documents\Programs\2155\PE20 - Meeks\PE20\PE20\obj\Debug\PE20.exe
+C:\Users\JPM\Documents\Programs\2155\PE20 - Meeks\PE20\PE20\obj\Debug\PE20.pdb
+C:\Users\JPM\Documents\Programs\2155\PE20 - Meeks\PE20\PE20\bin\Debug\PE20.exe
+C:\Users\JPM\Documents\Programs\2155\PE20 - Meeks\PE20\PE20\bin\Debug\PE20.pdb
+C:\Users\JPM\Documents\Programs\2155\PE20 - Meeks\PE20\PE20\obj\Debug\PE20.csprojResolveAssemblyReference.cache
